@@ -1,2 +1,3 @@
 Den ca con khi cung biet su dung git
 csacsas
+add: Đăng ký thay đổi trong index
